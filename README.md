@@ -6,13 +6,14 @@ Here are some ideas to get you started:
  -->
 - 🔭 I’m currently studying at the University of Washington
 - 🌱 I’m currently learning
-  * Software Design and Implementation in TypeScript
-  * Hardware/Software Interface in C and Assembly
-  * Computing Education and Pedagogy Principles
+  * Systems Programming with C/C++
+- 🧑‍🏫 Currently working as
+  * Teaching Assistant for UW CSE 160 - Data Programming
+  * iOS Developer and Research Assistant for the Mobile Intelligence Lab
 <!-- - 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m looking for help with everything and anything
+- 🤔 I’m looking for help with SwiftUI/HomeKit/Matter
 - 💬 Ask me about computing education and my experience at UW!
-- 📫 How to reach me: yunseolee.0503@gmail.com
+- 📫 How to reach me: yunseol1@cs.washington.edu
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Currently I can speak 5 different langauges!
+- ⚡ Fun fact: Currently I can speak 5 different langauges! (Learning French to be my 6th)
 
