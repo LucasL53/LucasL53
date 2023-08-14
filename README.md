@@ -7,12 +7,11 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying at the University of Washington
 - 🌱 I’m currently learning
   * Systems Programming with C/C++
-  * VisionOS
 - 🧑‍🏫 I'm currently working as
   * Teaching Assistant for UW CSE 160 - Data Programming
   * iOS Developer and Research Assistant for the Mobile Intelligence Lab
 <!-- - 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m looking for help with SwiftUI/HomeKit/VisionOS
+- 🤔 I’m looking for help with my SRT Translator Project
 - 💬 Ask me about computing education and my experience at UW!
 - 📫 How to reach me: yunseol1@cs.washington.edu
 - 😄 Pronouns: he/him
