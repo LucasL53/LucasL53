@@ -6,7 +6,7 @@ Here are some ideas to get you started:
  -->
 - 🔭 I’m currently studying at the University of Washington
 - 🌱 I’m currently learning
-  * Systems Programming with C/C++
+  * Introduction to Compiler Construction
 - 🧑‍🏫 I'm currently working as
   * Teaching Assistant for UW CSE 160 - Data Programming
   * iOS Developer and Research Assistant for the Mobile Intelligence Lab
