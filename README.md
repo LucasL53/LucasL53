@@ -6,6 +6,7 @@ Here are some ideas to get you started:
  -->
 - 🔭 I’m currently studying at the University of Washington
 - 🌱 I’m currently learning
+  * Accessibile Computing
   * Introduction to Compiler Construction
 - 🧑‍🏫 I'm currently working as
   * Teaching Assistant for UW CSE 160 - Data Programming
