@@ -6,16 +6,16 @@ Here are some ideas to get you started:
  -->
 - 🔭 I’m currently studying at the University of Washington
 - 🌱 I’m currently learning
-  * Machine Learning
-  * Natural Language Processing
-  * Software Entrepeneurship
+  * Computer Vision
+  * Distributed Systems
+  * Computing Education Research
 - 🧑‍🏫 I'm currently working as
-  * Teaching Assistant for UW CSE 160 - Data Programming
+  * ML4Code Researcher at Center for Learning, Computing and Imagination (UW LCI)
   * iOS Developer and Research Assistant for the Mobile Intelligence Lab
 <!-- - 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m looking for help with UI recognition and Drawing-recognition
+- 🤔 I’m looking for help with Gesture and Drawing Recognition, Common/Uncommon Sense
 - 💬 Ask me about computing education and my experience at UW!
 - 📫 How to reach me: yunseol1@cs.washington.edu
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Currently I can speak 5 different langauges! (Learning French to be my 6th)
+- ⚡ Fun fact: Currently I can speak 5 different languages! (Learning French to be my 6th)
 
