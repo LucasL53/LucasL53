@@ -6,12 +6,12 @@ Here are some ideas to get you started:
  -->
 - 🔭 I’m currently studying at the University of Washington
 - 🌱 I’m currently learning
-  * Computer Vision
-  * Accessible Computing
+  * Ethics
+  * Disability Education
   * Computing Education Research
 - 🧑‍🏫 I'm currently working as
-  * ML4Code Researcher at Center for Learning, Computing and Imagination (UW LCI)
-  * iOS Developer and Research Assistant for the Mobile Intelligence Lab
+  * Research Assistant at Center for Learning, Computing and Imagination (UW LCI)
+  * iOS Developer at HowellCo
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with understanding access and how I can support accessible computing education
 - 💬 Ask me about computing education and my experience at UW!
