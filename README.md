@@ -6,8 +6,7 @@ Here are some ideas to get you started:
  -->
 - 🔭 I’m currently studying at the University of Washington
 - 🌱 I’m currently learning
-  * Ethics
-  * Disability Education
+  * Current issues in Education
   * Computing Education Research
 - 🧑‍🏫 I'm currently working as
   * Research Assistant at Center for Learning, Computing and Imagination (UW LCI)
