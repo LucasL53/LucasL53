@@ -4,15 +4,16 @@
 
 Here are some ideas to get you started:
  -->
-- 🔭 I’m currently studying at the University of Washington
+- 🔭 I’m currently at San Francisco, CA
 - 🌱 I’m currently learning
   * Privacy-Preserving Machine Learning
+  * Mobile inferencing
 - 🧑‍🏫 I'm currently working as
-  * iOS Developer at HowellCo
+  * Software Engineer for Uber Road Safety
 <!-- - 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m looking for help with understanding privacy-preserving personalization
+- 🤔 I’m looking for help with anything
 - 💬 Ask me about computing education and my experience at UW!
-- 📫 How to reach me: yunseol1@uw.edu
+- 📫 How to reach me: yunseolee.0503@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Currently I can speak 5 different languages! (Learning French to be my 6th)
 
